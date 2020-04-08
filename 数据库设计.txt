@@ -1,0 +1,26 @@
+
+数据库 studentinformation
+		 
+	 表名							字段
+	 
+	登录表						id       account	passward  flag(权限标志)
+		
+               人员信息表			         			id（自增长） Name  age  sex  Class(班级)(允许为NULL)
+
+	
+#	课程信息表					id   Coursetitle(课程名) Teach
+	
+#	班级信息表					ClassName(班级名称)
+	
+#	学生成绩表					id Name  Class(班级) Coursetitle(课程名)  performance(成绩)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
